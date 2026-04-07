@@ -45,3 +45,4 @@ The loop is **not 100% closed**. Unavoidable losses occur due to evaporation, mi
 
 ---
 此構想是來至於不斷跟AI探討出來的結果，本質是想用一台機器解決供氧，還有食物問題，還能在某些極端情況下產生作用，像如果缺水的話可以使用第一層搭配過濾器或廢水再利用系統，（也能當儲水槽）當缺電的時候或許第四層的小發電機能夠產生些許作用也說不定，如果希望專注供氧的話則是不推薦繼續食用微藻（必須等他重新長好），能夠短期的保障生存，當然也許有我沒有設想到的問題，歡迎自己拿去更改
+This concept stems from ongoing discussions with AI. Essentially, it aims to solve oxygen and food problems with a single machine, and even function in extreme situations. For example, in case of water shortage, the first layer could be used in conjunction with a filter or wastewater recycling system (which can also function as a water storage tank). In case of power shortage, the small generator on the fourth layer might provide some relief. If the focus is solely on oxygen supply, it's not recommended to continue consuming microalgae (they must wait for it to regrow). This can ensure short-term survival. Of course, there may be issues I haven't considered; feel free to modify it as needed.
